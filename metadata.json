@@ -1,0 +1,8 @@
+{
+  "name": "ShopPA",
+  "description": "Australia's premier packaged food price comparison and health rating MVP application. Compare prices across Coles, Woolworths, Aldi, and more while making healthier choices.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
